@@ -1,0 +1,29 @@
+_repo: Catalogue-Of-Linguistic-Manuscripts-In-The-Library-Of-The-Bureau-Of-Ethnology.--1881-N-01---1__17262
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pilling, James Constantine
+    birthdate: 1846
+    deathdate: 1895
+    gutenberg_agent_id: '7256'
+    url: http://www.gutenberg.org/2009/agents/7256
+description: ''
+gutenberg_bookshelf: Anthropology
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17262'
+  lccn: '16005478'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Languages -- Bibliography'
+- !lcc 'E011'
+title: Catalogue Of Linguistic Manuscripts In The Library Of The Bureau Of Ethnology.
+  (1881 N 01 / 1879-1880 (Pages 553-578))
+url: http://www.gutenberg.org/ebooks/17262
